@@ -1,0 +1,36 @@
+h1 {
+  color: red;
+  font-size: 5rem;
+}
+
+/*****Class Selectors*****/
+img:hover {
+  border-color: gold;
+}
+
+.coffee {
+  border: 1rem solid brown;
+}
+
+.cupcake {
+  border: 1rem solid pink;
+}
+
+/*****ID Selectors*****/
+
+#heading {
+  color: blue;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+
+
+/*
+img {
+  border: 1rem solid red;
+}*/
+
+/*emojipedia*/
